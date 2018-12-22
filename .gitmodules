@@ -1,0 +1,3 @@
+[submodule "mobx"]
+	path = mobx
+	url = https://github.com/mobxjs/mobx
