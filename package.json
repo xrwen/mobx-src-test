@@ -1,0 +1,11 @@
+{
+  "name": "mobx-src-test",
+  "version": "1.0.0",
+  "description": "MobX test project using MobX soruce",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rwen",
+  "license": "ISC"
+}
